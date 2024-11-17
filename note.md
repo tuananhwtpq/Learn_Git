@@ -3,6 +3,8 @@
 Repository (Repo)
 Branch
 Conflict
+Local
+Remote
 
 # Commands
 
@@ -40,3 +42,6 @@ Conflict
 
 - Xóa 1 nhánh
 - git branch -d {brand name}
+
+- Đẩy lên remote
+- git push 
