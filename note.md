@@ -1,6 +1,7 @@
 # Terms
 
 Repository (Repo)
+Branch
 
 # Commands
 
@@ -23,3 +24,12 @@ Repository (Repo)
 - Xem lại các lần commit
 - git log
 - git log --oneline
+
+- Chuyển sang 1 commit nào đó:
+- git checkout + id của commit. VD: git checkout 85e620b
+
+- Chuyển về ban đầu:
+- git checkout {brand name} => VD: git checkout master
+
+- Tạo 1 nhánh mới
+- git checkout -b {brand name}
