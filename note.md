@@ -46,6 +46,8 @@ Remote
 - Đẩy lên remote
 - git push 
 
+- git remote add origin {repo url}
+
 - Tạo 1 nhánh từ local sau đó đẩy lên remote
 - git push -u origin {brand name}
 
