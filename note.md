@@ -19,3 +19,7 @@ Repository (Repo)
 
 - Lưu lại file
 - git commit -m "Tên commit"
+
+- Xem lại các lần commit
+- git log
+- git log --oneline
