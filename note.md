@@ -33,3 +33,9 @@ Branch
 
 - Tạo 1 nhánh mới
 - git checkout -b {brand name}
+
+- Merge các nhánh
+- git merge {brand name}
+
+- Xóa 1 nhánh
+- git branch -d {brand name}
